@@ -1,5 +1,5 @@
 # blog-website-redux
-App live at : https://deeqakkk-blog-website.netlify.app/
+App live at : https://epicdeepak-blog-website.netlify.app/
 
 ## Screenshots
 
